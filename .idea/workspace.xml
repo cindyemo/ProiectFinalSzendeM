@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc6e5969-f1b9-4b60-8af7-af1e00d46bca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AdaugaCosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CautareProdusBrandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Fashiondays/CautareCodProdus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Fashiondays/SortarePretMicMareTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2jbkVCoraBSH5SeIooZXuorYj56" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AdaugaCosTest.executor": "Run",
+    "TestNG.AddToCartTest.addtocartTest.executor": "Run",
+    "TestNG.AddToCartTest.executor": "Run",
+    "TestNG.AddToCartTest2.addtocartTest.executor": "Run",
+    "TestNG.AddToCartTest2.executor": "Run",
+    "TestNG.CautareCodProdus.executor": "Run",
+    "TestNG.CautareProdusBrandTest.executor": "Run",
+    "TestNG.SortarePretMicMareTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Szende Mitrea/IdeaProjects/ProiectFinalSzendeM/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.AdaugaCosTest">
+    <configuration name="AdaugaCosTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProiectFinalSzendeM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AdaugaCosTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddToCartTest.addtocartTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProiectFinalSzendeM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.electriccastil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.electriccastil" />
+      <option name="MAIN_CLASS_NAME" value="ro.electriccastil.AddToCartTest" />
+      <option name="METHOD_NAME" value="addtocartTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CautareCodProdus" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProiectFinalSzendeM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fashiondays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Fashiondays" />
+      <option name="MAIN_CLASS_NAME" value="Fashiondays.CautareCodProdus" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CautareProdusBrandTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProiectFinalSzendeM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CautareProdusBrandTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortarePretMicMareTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProiectFinalSzendeM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fashiondays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Fashiondays" />
+      <option name="MAIN_CLASS_NAME" value="Fashiondays.SortarePretMicMareTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AdaugaCosTest" />
+        <item itemvalue="TestNG.SortarePretMicMareTest" />
+        <item itemvalue="TestNG.CautareProdusBrandTest" />
+        <item itemvalue="TestNG.CautareCodProdus" />
+        <item itemvalue="TestNG.AddToCartTest.addtocartTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc6e5969-f1b9-4b60-8af7-af1e00d46bca" name="Changes" comment="" />
+      <created>1721663185788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721663185788</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Fashiondays/SortarePretMicMareTest.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
