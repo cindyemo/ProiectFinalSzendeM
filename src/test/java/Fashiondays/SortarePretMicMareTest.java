@@ -69,7 +69,7 @@ public class SortarePretMicMareTest {
         Select sortS =new Select(sortD);
         sortS.selectByValue("lowest_price");
 
-      /*  List<WebElement> pretEl =driver.findElement(By.id(""));//nu gasesc de unde sa copiex lista pentru xparh, id, css pentru cel mai mic pret
+       /* List<WebElement> pretEl =driver.findElement(By.xpath("/html//div[@id='paginationContainerHeader']/div[@class='filter-sort products-toolbar__btn-container']/div[1]/div[2]//label[@value='lowest_price']"));//nu gasesc de unde sa copiex lista pentru xparh, id, css pentru cel mai mic pret
         List<Double> pretProduse = new ArrayList<>();
         for(WebElement pret:pretEl){
             pretProduse.add(Double.parseDouble(pret.getText().substring(1)));
